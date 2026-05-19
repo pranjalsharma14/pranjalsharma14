@@ -155,7 +155,7 @@ And slowly, random experiments turned into real projects.
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/ChatGPT%20Image%20May%2019%2C%202026%2C%2009_21_33%20PM.png"/>
 
 </td>
 
