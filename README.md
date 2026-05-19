@@ -265,7 +265,7 @@ It became obsession.
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="90"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/Screenshot%202026-05-19%20200820.png"/>
 
 # 🌌 NeuroVerse AI
 
