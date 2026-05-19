@@ -89,7 +89,7 @@ I love building things that combine:
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJmMGl2OXA2YmR2aG1mM3JrN2d0OHV4b2pnNnd3bG5hNXZtNjR4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/ChatGPT%20Image%20May%2019%2C%202026%2C%2008_30_58%20PM.png"/>
 
 </td>
 
