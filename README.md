@@ -171,8 +171,7 @@ And slowly, random experiments turned into real projects.
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/WhatsApp%20Image%202026-05-19%20at%209.25.33%20PM.jpeg"/>
 </td>
 
 <td width="55%">
