@@ -285,7 +285,7 @@ Transforms one idea into:
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="90"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/Screenshot%202026-05-19%20215657.png"/>
 
 # 🎯 AI Career Copilot
 
