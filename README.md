@@ -241,7 +241,7 @@ It became obsession.
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/WhatsApp%20Image%202026-05-19%20at%209.31.26%20PM.jpeg"/>
 
 </td>
 
@@ -330,7 +330,7 @@ Built for:
 
 # 🧠 CURRENT FOCUS
 
-<div align="center">
+<div align="LEFT">
 
 ```yaml
 CURRENTLY_BUILDING:
