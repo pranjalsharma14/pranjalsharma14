@@ -305,7 +305,7 @@ Features:
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="90"/>
+<img width="100%" src="https://raw.githubusercontent.com/pranjalsharma14/pranjalsharma14/main/Screenshot%202026-05-19%20220004.png"/>
 
 # ⚡ Prompt Toolkit
 
@@ -435,29 +435,7 @@ CURRENT_SOUNDTRACK:
 
 ---
 
-# 🎧 AI TRANSMISSIONS
-
-<div align="center">
-
-> ### “Technology didn’t change my life. It rewrote my operating system.”
-
-<br/>
-
-> ### “Every workflow eventually becomes intelligence.”
-
-<br/>
-
-> ### “The future belongs to people who can build systems.”
-
-<br/>
-
-> ### “AI is not replacing creativity. It is amplifying it.”
-
-</div>
-
----
-
-# ⚡ FINAL TRANSMISSION
+# ⚡ LET'S CONNECT
 
 <div align="center">
 
